@@ -5,7 +5,7 @@
 For this project, a python code was created based on the CVS files provided in August 2021.
 
 ### Project Title
-Bike-share- Python code
+Bike-share Data - Python code
 
 ### Description
 A code where it would give you some insights on the bike rental activity in select cities.
