@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# This project asks the user to specify the city they would like to see statitics aboutfor the bike rental service
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
