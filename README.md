@@ -2,7 +2,7 @@
 
 ### Date created
 
-For this project, a python code was created based on the CVS files ( 3 Cities) provided in August 2021.
+For this project, a python code was created based on the CVS files (3 Cities: Chicago, New York City and Washington) provided in August 2021.
 
 ### Project Title
 Bike-share Data - Python code
